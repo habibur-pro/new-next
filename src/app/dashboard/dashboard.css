@@ -1,0 +1,10 @@
+.menu{
+    display:flex;
+    gap:20px;
+}
+.menu li{
+    list-style: node;
+}
+.menu a:active{
+color:yellow
+}
